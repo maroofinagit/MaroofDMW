@@ -132,6 +132,11 @@ plt.legend()
 plt.grid(True)
 plt.show()
 
+<<<<<<< HEAD
 # Edit 1
 # Edit 2
 # Edit 3
+=======
+# Edit 0
+# Edit 2
+>>>>>>> secB
